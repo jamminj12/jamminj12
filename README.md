@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jamminj12
-- 👀 I’m interested in automation and mechancial engineering... such as electric and automated vehicles and automation in the workplace 
-- 🌱 I’m currently learning how to integrate my knowlegde of mechanical devices with electrical components and data collection using Python 
-- 💞️ I’m looking to collaborate on any project aligned with my interests/projects and would love feedback on my work!
+- 👀 I’m interested in automating mechancial engineering tasks
+- 🌱 I’m currently learning how to automate and streamline aircraft survivability analysis processes using Python 
 - 📫 How to reach me by email: jesse.greyshock@gmail.com
 
 <!---
