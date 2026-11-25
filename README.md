@@ -1,7 +1,6 @@
-- I work in the aerospace industry
 - I build analysis tools and data products that combine engineering, statistics, and software development to support clear, defensible decisions
-- I'm interested in how system-level performance determines mission success, which is part of why I'm finishing a Master's in Business Analytics alongside my engineering work
-- B.S. in Mechanical Engineering
-- Much of my work is proprietary, so the code here is coursework, research, and personal projects
-- In my free time I take on freelance sports analytics projects and work on my own fitness
+- M.S. in Business Analytics (May 2027)
+- B.S. in Mechanical Engineering (May 2023)
+- Majority of code here is coursework, research, and personal projects
+- In my free time, I enjoy building data-driven projects in sports analytics, home automation, and personal fitness tracking.
 - Contact: jamminj12@gmail.com
