@@ -1,4 +1,3 @@
-- I build analysis tools and data products that combine engineering, statistics, and software development to support clear, defensible decisions
 - M.S. in Business Analytics (May 2027)
 - B.S. in Mechanical Engineering (May 2023)
 - Majority of code here is coursework, research, and personal projects
